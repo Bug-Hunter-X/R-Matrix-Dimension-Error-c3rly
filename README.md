@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming: creating a matrix with inconsistent dimensions. The code attempts to create a 2x6 matrix with only 10 elements, resulting in an error.  The solution shows the correct way to create a matrix.
